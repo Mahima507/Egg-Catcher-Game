@@ -13,7 +13,10 @@ This is a fun and interactive web application game developed using JavaScript, H
 * Contact
 
 # Demo
-You can play the game live here 
+You can play the game live here https://mahima507.github.io/Egg-Catcher-Game/
+![image](https://github.com/Mahima507/Egg-Catcher-Game/assets/75236972/e315d42e-db9f-4a4d-95b3-5faeb0b9944b)
+![image](https://github.com/Mahima507/Egg-Catcher-Game/assets/75236972/fc24d28e-b19b-429a-b44a-890a13c6c51e)
+
 
 # Features
 * Interactive and responsive game interface.
@@ -38,7 +41,7 @@ To run this project locally, follow these steps:
 3. Open index.html in your web browser to start the game.
 
 # Gameplay Instructions
-1. Use the left and right arrow keys on your keyboard to move the basket.
+1. Use your mouse to move the basket left and right.
 2. Catch the falling eggs with the basket to score points.
 3. Avoid catching obstacles to prevent losing points.
 4. Catch bonus items for additional points and special effects.
